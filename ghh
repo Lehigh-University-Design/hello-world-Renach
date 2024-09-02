@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Hello Topshotta</title>
+        <link rel = "stylesheet" href = "css/style.css">
+    <body>
+        <h1>Hello Topshotta</h1>
+        <p>
+            how are you doing today?
+        </p>
+        <p> 
+            <a href="https://web.archive.org/web/20120822122558/http://www.theatlantic.com/magazine/archive/1945/07/as-we-may-think/303881/?single_page=true
+            "> </href> As We May hink
+        <p>
+            <img src="https://image.api.playstation.com/vulcan/ap/rnd/202207/0813/H6Xqtkj1u5jC6yaxLqCvyJIs.jpg
+            " width="500" alt="">
+        </p>
+    </body>
+</html>
+
+<header>
+    <h1>Welcome to My Online Portfolio</h1>
+</header>
